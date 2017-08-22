@@ -4,7 +4,7 @@
 渲染引擎: [three.js](https://threejs.org )  
 
 
-Demo展示地址： [传送门](http://htmlpreview.github.io/?https://github.com/CNCrazyMoon/3DEarth/blob/master/index.html)
+Demo展示地址： [传送门](https://cncrazymoon.github.io/3DEarth/)
 
 ## 目标
 用于讲解 `Three.js` 入门, 如何编写一个 `Three.js` 应用  
